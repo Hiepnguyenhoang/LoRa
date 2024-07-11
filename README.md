@@ -36,13 +36,6 @@ Kiểm nghiệm và tối đa hóa khả năng truyền thông của chuẩn tru
 - Truyền qua tán cây: Bên truyền sẽ truyền từ trên nóc nhà cao tầng xuống bên nhận ở dưới tán cây
 - Truyền có vật cản là tường hoặc nhà ở: Đo thông qua các tầng tại khu nhà chung cư Nhà Xinh – Yên Hòa, Hà Nội
 
-## Kết quả đạt được
-- Truyền thẳng (truyền không vật cản): Đo tại 2 bên bờ của Hồ Tây 
-![Truyền thẳng](D:\hồ tây.jpg)
-- Truyền qua tán cây: Bên truyền sẽ truyền từ trên nóc nhà cao tầng xuống bên nhận ở dưới tán cây 
-![Truyền qua tán cây](path/to/image2.png)
-- Truyền có vật cản là tường hoặc nhà ở: Đo thông qua các tầng tại khu nhà chung cư Nhà Xinh – Yên Hòa, Hà Nội 
-![Truyền có vật cản](path/to/image3.png)
 
 
 
